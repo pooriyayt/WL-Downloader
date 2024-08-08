@@ -3,9 +3,10 @@
 WL Downloader is a powerful tool for downloading files, supporting simultaneous downloads and organized sorting of downloaded files.
 <p align="center">
     <img src="https://wl-std.com/assets/image/banner/wl-downloader.svg" alt="Wl Downloader banner"><br>
-     <a href="https://pooriya.wl-std.com/donate"><img class="img-fluid" width=150 src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a><br>
     <img src="https://img.shields.io/badge/Antivirus-PASS-wlstdgreencolor" alt="antivirus" >
-    <img src="https://img.shields.io/badge/License-Custom Proprietary License-blue" alt="license" >
+    <img src="https://img.shields.io/badge/License-Custom Proprietary License-blue" alt="license" ><br>
+     <a href="https://pooriya.wl-std.com/donate"><img class="img-fluid" width=150 src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
  
 
 </p>
