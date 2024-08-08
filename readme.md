@@ -22,15 +22,15 @@ winget install wl-std.WLDownloader
 
 Download the latest version of WL Downloader for Windows from our European server:
 
-[🌍 Download from Europe](https://dl1.wl-std.com/WL%20Downloader%20Installer.exe)
+> [🌍 Download from Europe](https://dl1.wl-std.com/WL%20Downloader%20Installer.exe)
 
 ### Option 3: Download from Iranian Server (Windows)
 
 Download the latest version of WL Downloader for Windows from our Iranian server:
 
-[🌍 Download from Iran](https://dl2.wl-std.com/WL%20Downloader%20Installer.exe)
+> [🌍 Download from Iran](https://dl2.wl-std.com/WL%20Downloader%20Installer.exe)
 
-> 🖥️ **Linux version coming soon!** Stay tuned for updates.
+- 🖥️ **Linux version coming soon!** Stay tuned for updates.
 
 ## 🛡️ Antivirus Scan Results
 
