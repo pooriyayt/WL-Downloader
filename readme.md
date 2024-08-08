@@ -10,25 +10,27 @@ WL Downloader is a powerful tool for downloading files, supporting simultaneous 
 
 ## 📥 Download
 
-### Option 1: Download using Winget (Recommended)
+### Option 1: Download using Winget (Recommended for Windows)
 
-To download and install WL Downloader using Winget, use the following command:
+To download and install WL Downloader on Windows using Winget, use the following command:
 
 ```sh
 winget install wl-std.WLDownloader
 ```
 
-### Option 2: Download from European Server
+### Option 2: Download from European Server (Windows)
 
-Download the latest version of WL Downloader from our European server:
+Download the latest version of WL Downloader for Windows from our European server:
 
 [🌍 Download from Europe](https://dl1.wl-std.com/WL%20Downloader%20Installer.exe)
 
-### Option 3: Download from Iranian Server
+### Option 3: Download from Iranian Server (Windows)
 
-Download the latest version of WL Downloader from our Iranian server:
+Download the latest version of WL Downloader for Windows from our Iranian server:
 
 [🌍 Download from Iran](https://dl2.wl-std.com/WL%20Downloader%20Installer.exe)
+
+> 🖥️ **Linux version coming soon!** Stay tuned for updates.
 
 ## 🛡️ Antivirus Scan Results
 
