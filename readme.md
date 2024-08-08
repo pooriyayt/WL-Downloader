@@ -6,9 +6,6 @@ WL Downloader is a powerful tool for downloading files, supporting simultaneous 
     <img src="https://img.shields.io/badge/Antivirus-PASS-wlstdgreencolor" alt="antivirus" >
     <img src="https://img.shields.io/badge/License-Custom Proprietary License-blue" alt="license" ><br>
      <a href="https://pooriya.wl-std.com/donate"><img class="img-fluid" width=150 src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-
- 
-
 </p>
 
 ## 🚀 Features
