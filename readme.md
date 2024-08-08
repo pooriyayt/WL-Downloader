@@ -1,6 +1,12 @@
 # 🌟 WL Downloader
 
 WL Downloader is a powerful tool for downloading files, supporting simultaneous downloads and organized sorting of downloaded files.
+<p align="center">
+    <img src="https://wl-std.com/assets/image/banner/wl-downloader.svg" alt="Wl Downloader banner"><br>
+  <a href="https://pooriya.wl-std.com/donate"><img class="img-fluid" width=130 src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a><br>
+  <img src="https://img.shields.io/badge/antivirus-PASS-wlstdgreencolor" alt="antivirus" >
+
+</p>
 
 ## 🚀 Features
 
@@ -40,6 +46,7 @@ Your safety is our priority. WL Downloader has been scanned with multiple antivi
 |-------------------|--------|
 | [🛡️ Antivirus 1](https://www.virustotal.com/gui/url/66462dde7be953d78ab36808b903548e50434301701a3222c654d8d6e8f54c40?nocache=1)       | ✅ Clean  |
 | [🛡️ Antivirus 2](https://www.virustotal.com/gui/url/0e2c074c69b402611ee44326c39ffa6115e2429c70493d831032ee38b74dcefb?nocache=1)       | ✅ Clean  |
+
 
 ## 📞 Contact Information
 
