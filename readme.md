@@ -40,7 +40,7 @@ We offer two download options from Iranian servers:
 
 - **Tabriz Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
 
-  > [🌍 Download from Tabriz (Half-Cost Traffic)](https://dl3.wl-std.com/?file=WL%20Downloader%20Installer.exe)
+  > [🌍 Download from Tabriz](https://dl3.wl-std.com/?file=WL%20Downloader%20Installer.exe)
 
 - 🖥️ **Linux version coming soon!** Stay tuned for updates.
 
