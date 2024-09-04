@@ -30,11 +30,17 @@ Download the latest version of WL Downloader for Windows from our European serve
 
 > [🌍 Download from Europe](https://dl1.wl-std.com/WL%20Downloader%20Installer.exe)
 
-### Option 3: Download from Iranian Server (Windows)
+### Option 3: Download from Iranian Servers (Windows)
 
-Download the latest version of WL Downloader for Windows from our Iranian server:
+We offer two download options from Iranian servers:
 
-> [🌍 Download from Iran](https://dl2.wl-std.com/WL%20Downloader%20Installer.exe)
+- **Tehran Server (Full-Cost Traffic - ترافیک تمام بها):**
+
+  > [🌍 Download from Tehran](https://dl2.wl-std.com/WL%20Downloader%20Installer.exe)
+
+- **Tabriz Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
+
+  > [🌍 Download from Tabriz (Half-Cost Traffic)](https://dl3.wl-std.com/?file=WL%20Downloader%20Installer.exe)
 
 - 🖥️ **Linux version coming soon!** Stay tuned for updates.
 
